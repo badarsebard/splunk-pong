@@ -1,4 +1,4 @@
-<dashboard isDashboard="false" script="pong.js">
+<dashboard script="pong.js">
     <row>
         <panel>
             <html src="pong.html">
