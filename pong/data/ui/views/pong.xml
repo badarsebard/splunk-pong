@@ -1,0 +1,8 @@
+<dashboard isDashboard="false" script="pong.js">
+    <row>
+        <panel>
+            <html src="pong.html">
+            </html>
+        </panel>
+    </row>
+</dashboard>
