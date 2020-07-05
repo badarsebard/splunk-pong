@@ -102,7 +102,7 @@ const init = async emsdkEnvironment => {
   };
 
   const {instance: {exports: pong}} = await WebAssembly.instantiateStreaming(
-    fetch('../../../static/app/pyden-examples/pong.wasm'),
+    fetch('../../../static/app/splunk-pong/pong.wasm'),
     {env}
   );
 
